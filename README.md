@@ -36,7 +36,7 @@ I am same modified this tool
 
   <br>
 
-  <img src="https://i.imgur.com/1wJVDV5.png">
+  <img src="https://imgur.com/a/FtWecnG">
 
 </p>
 
