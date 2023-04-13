@@ -156,61 +156,32 @@ Available Templates :
 
 ## Installation
 
-### Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
+### (Spacial for Termux users)Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
 
-git clone https://github.com/thewhiteh4t/seeker.git
+git clone https://github.com/noob4200/seeker-.git
 
-cd seeker/
+cd seeker-
+
+pkg install unzip
+
+unzip seeker.zip
+
+cd seeker
 
 chmod +x install.sh
 
 ./install.sh
 
-```
 
-### BlackArch Linux
 
-```bash
 
-sudo pacman -S seeker
 
-```
 
-### Docker
 
-```bash
-
-docker pull thewhiteh4t/seeker
-
-```
-
-### OSX
-
-```bash
-
-git clone https://github.com/thewhiteh4t/seeker.git
-
-cd seeker/
-
-python3 seeker.py
-
-````
-
-In order to run in tunnel mode, install ngrok by running this command in the terminal:
-
-```bash
-
-brew install ngrok/ngrok/ngrok
-
-ngrok http 8080
-
-````
 
 ## Usage
-
-```bash
 
 python3 seeker.py -h
 
