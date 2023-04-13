@@ -1,6 +1,6 @@
 # seeker-
 I am same modified this tool
-<p align="center"><img src="https://i.imgur.com/DIpuNTI.jpg"></p>
+<p align="center"><img src="https://imgur.com/a/FtWecnG"></p>
 
 <p align="center">
 
@@ -156,7 +156,8 @@ Available Templates :
 
 ## Installation
 
-### (Spacial for Termux users)Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
+### (Spacial for Termux users)
+##Kali Linux / Arch Linux / Ubuntu / Parrot OS / Termux
 
 ```bash
 
